@@ -1,0 +1,10 @@
+.preview-box{
+    height: auto;
+    width: auto;
+    border-radius: 26px;
+    background: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+}
